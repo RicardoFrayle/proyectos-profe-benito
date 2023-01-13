@@ -1,4 +1,0 @@
-hola como estan
-
-estoy en la clase del profe benito 
-estoy agregando texto al commit
